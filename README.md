@@ -7,7 +7,6 @@ A pre-configured Laravel + NativePHP Mobile starter template.
 - **Laravel** - Latest version with standard configuration
 - **NativePHP Mobile** - Pre-installed and configured
 - **Laravel Boost**
-- **CLAUDE.md** - Generated guidelines for the AI assistant
 
 ## Automated Updates
 
